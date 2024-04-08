@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
  
 ## Suporte
  
-Se você tiver alguma dúvida ou sugestão para melhorar este projeto educacional, sinta-se à vontade para entrar em contato conosco enviando um e-mail para SEUEMAILDOSENAC@senacpedu.br.
+Se você tiver alguma dúvida ou sugestão para melhorar este projeto educacional, sinta-se à vontade para entrar em contato conosco enviando um e-mail para ana.ppviana@senac.edu.br.
  
 ---
  
